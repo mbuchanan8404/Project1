@@ -1,0 +1,10 @@
+﻿  Project1.c
+c:\users\bhgtulolle\desktop\school\operating systems\project1\project1\project1.c(50): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bhgtulolle\desktop\school\operating systems\project1\project1\project1.c(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bhgtulolle\desktop\school\operating systems\project1\project1\project1.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\bhgtulolle\desktop\school\operating systems\project1\project1\project1.c(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\bhgtulolle\desktop\school\operating systems\project1\project1\project1.c(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bhgtulolle\desktop\school\operating systems\project1\project1\project1.c(239): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\bhgtulolle\Desktop\School\Operating Systems\Project1\Project1\Debug\Project1.exe
